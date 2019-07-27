@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">EspressoTestRecorderSample</string>
+    <string name="main_text_not_clicked">ボタンをクリックしてね</string>
+    <string name="main_text_clicked">ボタンがクリックされました！</string>
+    <string name="main_text2_not_clicked">押すとこのテキストは消えるよ</string>
+    <string name="main_text2_clicked">このテキストは見えないはずだよ</string>
+    <string name="button_text_not_clicked">クリックする？</string>
+    <string name="button_text_clicked">元に戻す</string>
 </resources>
